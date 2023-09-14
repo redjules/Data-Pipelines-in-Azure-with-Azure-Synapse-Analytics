@@ -10,53 +10,52 @@ For this project, we will be working with the 2021 Olympics dataset. This includ
 
 Athletes file (Details about Athletes):
 
-Name
+-Name
 
-NOC
+-NOC
 
-Discipline
+-Discipline
 
  
 
 Coaches file (Details about coaches, countries and disciplines along with event):
 
-Name
+-Name
 
-NOC
+-NOC
 
-Discipline
+-Discipline
 
-Event
+-Event
 
- 
+-Entries
 
-EntriesGender file (Details about the Discipline and the number of females and males participating):
+Gender file (Details about the Discipline and the number of females and males participating):
 
-Discipline
+-Discipline
 
-Male
+-Male
 
-Female
+-Female
 
-Total
-
+-Total
  
 
 Medals file (Contains the Medals and Scoreboard of countries that participated in Olympics):
 
-Rank
+-Rank
 
-Team/NOC
+-Team/NOC
 
-Gold
+-Gold
 
-Silver
+-Silver
 
-Bronze
+-Bronze
 
-Total
+-Total
 
-Rank by Total
+-Rank by Total
 
 
 
