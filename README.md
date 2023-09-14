@@ -62,13 +62,13 @@ Medals file (Contains the Medals and Scoreboard of countries that participated i
 
 Teams file (Details about the Teams, discipline, Name of Country and the event):
 
-Name
+-Name
 
-Discipline
+-Discipline
 
-NOC
+-NOC
 
-Event
+-Event
 
 # Tech Stack
 
